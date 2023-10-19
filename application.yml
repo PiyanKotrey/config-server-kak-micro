@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: config_defult
+
 eureka:
   client:
     serviceUrl:
